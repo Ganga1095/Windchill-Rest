@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE Configuration SYSTEM "xconf.dtd">
-<Configuration xmlns:xlink="http://www.w3.org/1999/xlink">
-    <Property name="com.sparc.webservice" multivalued="," targetFile="codebase/com/ptc/windchill/rest/rest.properties" default="ext.addcolumn.RestUtil"/>	
-</Configuration>
